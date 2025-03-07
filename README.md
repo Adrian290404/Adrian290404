@@ -10,10 +10,10 @@ Mi mejor proyecto es una **web para un hotel**, donde desarrollé tanto la **pá
 📊 **Dashboard de administración:** [Panel de gestión](http://hotel-miranda-admin.s3-website.eu-west-3.amazonaws.com/dashboard)  
 
 ## 🌟 Otros Proyectos  
-📸 **MyGallery** – Plataforma de fotografía donde los usuarios pueden explorar, buscar y guardar imágenes de alta calidad.  
+📸 **MyGallery** – Plataforma de imagenes donde los usuarios pueden explorar, buscar y guardar imágenes de alta calidad.  
 🔗 [Ver MyGallery](http://mygallery-adrian.s3-website.eu-west-3.amazonaws.com/)  
 
-🛍️ **Oxygen Shop** – Tienda online moderna con carrito de compras e integración de pagos.  
+🛍️ **Oxygen Shop** – Tienda online donde aprendí a aplicar la metodología BEM y SASS en el desarrollo web.
 🔗 [Ver Oxygen Shop](https://adrian290404.github.io/proyecto-modulo2/)  
 
 ## 🔧 Tecnologías que uso  
