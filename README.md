@@ -11,9 +11,9 @@ Mi mejor proyecto es una **web para un hotel**, donde desarrollé tanto la **pá
 
 ## 🌟 Otros Proyectos  
 📸 **MyGallery** – Plataforma de imagenes donde los usuarios pueden explorar, buscar y guardar imágenes de alta calidad.         
-🔗 [Ver MyGallery](http://mygallery-adrian.s3-website.eu-west-3.amazonaws.com/)  
-
 🛍️ **Oxygen Shop** – Tienda online donde aprendí a aplicar la metodología **BEM** y **SASS** en el desarrollo web.
+
+🔗 [Ver MyGallery](http://mygallery-adrian.s3-website.eu-west-3.amazonaws.com/)  
 🔗 [Ver Oxygen Shop](https://adrian290404.github.io/proyecto-modulo2/)  
 
 
